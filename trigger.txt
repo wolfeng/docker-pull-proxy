@@ -1,6 +1,6 @@
-langgenius/dify-api:0.6.11 registry.cn-hangzhou.aliyuncs.com/wolfeng/dify-api:0.6.11
+langgenius/dify-api:0.6.15 registry.cn-hangzhou.aliyuncs.com/wolfeng/dify-api:0.6.15
 
-langgenius/dify-web:0.6.11 registry.cn-hangzhou.aliyuncs.com/wolfeng/dify-web:0.6.11
+langgenius/dify-web:0.6.15 registry.cn-hangzhou.aliyuncs.com/wolfeng/dify-web:0.6.15
 
 postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/wolfeng/postgres:15-alpine
 
